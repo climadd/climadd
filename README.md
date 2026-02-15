@@ -3,6 +3,7 @@
 Software Engineer, exploring optimization development to enhance performance and efficiency at scale.
 
 📧 lorenzomirtobertoldo@gmail.com
+👨🏻‍💼 https://www.linkedin.com/in/lorenzo-mirto-bertoldo-7256523a7/
 
 <!--
 **climadd/climadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
